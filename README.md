@@ -5,6 +5,6 @@ Hi, I'm Yasmim Mota 👋
 **About me:**
 - 15y
 - 📍 From Brazil, Resende/Rj
-- 📘 Studying Systems Development at Senai
+- 📘 Studying Systems Development
 - 💻 I’m currently learning programming
 - 📫 E-mail: yasmim.mott@gmail.com
