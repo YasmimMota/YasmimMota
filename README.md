@@ -3,7 +3,7 @@ Hi, I'm Yasmim Mota 👋
 <p><i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i><p>
 
 **About me:**
-- 15y
+- 15yo
 - 📍 From Brazil, Resende/Rj
 - 📘 Studying Systems Development
 - 💻 I’m currently learning programming
